@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7098a3-8d49-4eb3-bbba-265b1be17507" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aZdeP0USE2nfITHBV4J5nvjA0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rupanshi\PycharmProjects\Blockchain_final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.node1">
+    <configuration name="alice" type="PythonConfigurationType" factoryName="Python">
+      <module name="Blockchain_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain_client1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client1/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8080" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bob" type="PythonConfigurationType" factoryName="Python">
+      <module name="Blockchain_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain_client1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client1/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="node1" type="PythonConfigurationType" factoryName="Python">
+      <module name="Blockchain_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain1/blockchain.py" />
+      <option name="PARAMETERS" value="-p 5001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="node2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Blockchain_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain1/blockchain.py" />
+      <option name="PARAMETERS" value="-p 5002" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.alice" />
+      <item itemvalue="Python.bob" />
+      <item itemvalue="Python.node1" />
+      <item itemvalue="Python.node2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7098a3-8d49-4eb3-bbba-265b1be17507" name="Default Changelist" comment="" />
+      <created>1586947144243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586947144243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596552283955">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1596552283955" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1596725667894">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1596725667894" />
+  </component>
+</project>
